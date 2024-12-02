@@ -15,11 +15,4 @@ Thumbs.db
 
 .vscode/
 .idea/
-
-# Ignorar arquivos de construção do cx_Freeze
-build/
-dist/
-*.exe
-*.app
-*.spec
-*.log
+build
