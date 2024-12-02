@@ -1,6 +1,6 @@
-# Artemis - Chatbot de Impostos
+# Saturn - Chatbot de Impostos
 
-Artemis é um chatbot desenvolvido em Python com uma interface gráfica simples usando a biblioteca `customtkinter`. Ele consulta informações de impostos a partir de uma tabela pública no Google Sheets e fornece dados como Imposto de Importação, Exportação e IPI (Imposto sobre Produtos Industrializados) para fumo, bebidas, automóveis e importações.
+Saturn é um chatbot desenvolvido em Python com uma interface gráfica simples usando a biblioteca `customtkinter`. Ele consulta informações de impostos a partir de uma tabela pública no Google Sheets e fornece dados como Imposto de Importação, Exportação e IPI (Imposto sobre Produtos Industrializados) para fumo, bebidas, automóveis e importações.
 
 ## Funcionalidades
 
